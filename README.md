@@ -13,7 +13,7 @@ Add to your `book.json` plugin list:
             "root" : "your-redirect-url-root",
             "bookname" : "your-book-name"
         }
-    },
+    }
 }
 ```
 
@@ -26,7 +26,7 @@ For example, when you write below config in `book.json`,
 }
 ```
 
-and you access to `https://exmaple.gitbook.io/my-book/xxx/yyy.html` , you will be redirected to `https://books.example.com/my-book/xxx/yyy.html`.
+and you access to `https://example.gitbook.io/my-book/xxx/yyy.html` , you will be redirected to `https://books.example.com/my-book/xxx/yyy.html`.
 
 
 ## Credits
